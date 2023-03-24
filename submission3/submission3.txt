@@ -5,7 +5,7 @@ Two public links to the Concept Map (anyone on the internet can view without log
 PDF: 
 https://github.com/abirrahman111/CSE431/blob/main/submission3/Concept%20Map.drawio.pdf
 Native/original format: 
-https://drive.google.com/file/d/1dYqqtCa-dN8d717YZ6PRixQvWdrEQJ-b/view?usp=sharing
+https://drive.google.com/drive/folders/1Tj0Ea7MgOb0HOvYImJNM2F7RxGO71K_V?usp=sharing
 
 Name, Author, Edition, year, and publisher of the Book:
 Speech and Language Processing
