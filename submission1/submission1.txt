@@ -7,7 +7,7 @@ https://www.youtube.com/playlist?list=PL_qMidA8UV_xPy3ICERyAcHiOhMQgrA6M
 Public link to the slide (Anyone on the internet can view without login):
 https://docs.google.com/presentation/d/1GucoBab-Ye-sBXxltTNZD7I8Rf0BDVknEJKnzRtr4EQ/edit#slide=id.p
 
-Project title:
+Project title: Improving Educational Textbooks with Data Mining Techniques. 
 
 
 Group Number:
