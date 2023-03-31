@@ -10,8 +10,7 @@ https://docs.google.com/presentation/d/1GucoBab-Ye-sBXxltTNZD7I8Rf0BDVknEJKnzRtr
 Project title: Improving Educational Textbooks with Data Mining Techniques. 
 
 
-Group Number:
-25
+Group Number:25
 
 Group Members:
 19201003 MD. Abir Rahman
