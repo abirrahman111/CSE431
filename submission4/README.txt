@@ -1,5 +1,5 @@
 Overleaf link with edit access to ST, RA and my gmail.
-<https://www.overleaf.com/project/64159700ff12edeec3040977>
+https://www.overleaf.com/project/64159700ff12edeec3040977
 
 Unlisted YouTube video:
 http://youtube....
@@ -11,7 +11,7 @@ Paper title:
 Improving Educational Textbooks with Data Mining Techniques.
 
 Paper presentation (anyone can view without login):
-<https://docs.google.com/presentation/d/1wYaTxuEidg8Qm4zLGi26pdMC2LKa67H71FB0YuI_UFE/edit?usp=sharing>
+https://docs.google.com/presentation/d/1wYaTxuEidg8Qm4zLGi26pdMC2LKa67H71FB0YuI_UFE/edit?usp=sharing
 
 Paper submission date (to workshop/conference):
 25 October 1999
