@@ -5,25 +5,25 @@ Unlisted YouTube video:
 http://youtube....
 
 Conference submitted paper / paper submission / login Link:
-https://easy....
+
 
 Paper title:
 Improving Educational Textbooks with Data Mining Techniques.
 
 Paper presentation (anyone can view without login):
-https://docs.google.com/presentation/d/1wYaTxuEidg8Qm4zLGi26pdMC2LKa67H71FB0YuI_UFE/edit?usp=sharing
+
 
 Paper submission date (to workshop/conference):
-25 October 1999
+
 
 Paper submission ID: (received) from conference/workshop
-1341234
+
 
 Conference Name:
-2005 International Conference on Quantum Pattern Recognition for Natural Language Processing: Techniques and Practices
+
 
 Conference URL:
-http://confsite/...
+
 
 Group Number:
 25
