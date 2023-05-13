@@ -5,7 +5,7 @@ Unlisted YouTube video:
 https://youtu.be/lkSNHjyXs6Q
 
 Conference submitted paper / paper submission / login Link:
-
+https://cmt3.research.microsoft.com/ASYU2023/Submission/Index
 
 Paper title:
 Improving Educational Textbooks with Data Mining Techniques.
@@ -14,16 +14,17 @@ Paper presentation (anyone can view without login):
 The paper was used to present.
 
 Paper submission date (to workshop/conference):
-
+13 May 2023
 
 Paper submission ID: (received) from conference/workshop
-
+14
 
 Conference Name:
-
+ASYU 2023 @ Sivas
+Innovations in Intelligent Systems and Applications Conference
 
 Conference URL:
-
+http://asyu.inista.org/EN/
 
 Group Number:
 25
