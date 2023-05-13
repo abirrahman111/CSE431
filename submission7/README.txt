@@ -5,7 +5,7 @@ Unlisted YouTube video:
 https://youtu.be/7NN4ojDnQJ8
 
 Conference submitted paper / paper submission / login Link:
-https://cmt3.research.microsoft.com/User/Login?ReturnUrl=%2FASYU2023
+https://cmt3.research.microsoft.com/ASYU2023/Submission/Index
 
 Paper title:
 Improving Educational Textbooks with Data Mining Techniques.
